@@ -32,12 +32,12 @@ Teknoloji dünyasına modern web çözümleri ve mobil uygulamaları üretmek am
 
 ---
 
-### 📈 GitHub İstatistikleri
+### 📊 GitHub İstatistikleri
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InciNurKurnaz&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InciNurKurnaz&layout=compact&langs_count=7&theme=default" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InciNurKurnaz&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InciNurKurnaz&layout=compact&langs_count=7&theme=radical&hide_border=true" />
+</p>
 
 ---
 
