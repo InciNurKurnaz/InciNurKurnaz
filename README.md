@@ -1,16 +1,59 @@
-## Hi there 👋
+# Selam, ben İnci Nur Kurnaz! 👋
 
-<!--
-**InciNurKurnaz/InciNurKurnaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Bilgisayar Mühendisliği Öğrencisi | Frontend ve Mobil Uygulama Geliştiricisi
 
-Here are some ideas to get you started:
+Teknoloji dünyasına modern web çözümleri ve mobil uygulamaları üretmek amacıyla adım atan, kullanıcı deneyimi ve performans odaklı arayüzler geliştirmeye odaklanan bir mühendis adayıyım. Akademik projelerimde ve bireysel çalışmalarımda Flutter, React ekosistemi ve veri bilimi üzerine yoğunlaşmaktayım.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Nelerle Uğraşıyorum?
+
+* **📱 Praxis App:** Üniversite topluluk yönetimi için geliştirilen platformun web yönetim panelinden sorumluyum.
+* **📦 Stok Takip Uygulaması:** Ürün hareketlerini gerçek zamanlı bir dashboard üzerinden yöneten kullanıcı dostu bir sistem geliştiriyorum.
+* **🧠 Müşteri Segmentasyonu:** Alışveriş verileri üzerinden **K-Means, BIRCH ve DBSCAN** algoritmaları ile segmentasyon analizi yapıyorum.
+* **🎬 Film & Dizi Tür Tahmini:** NLP ve Makine Öğrenmesi kullanarak içerik tabanlı tür sınıflandırma sistemi (IMDb Analizi) yürütüyorum.
+* **🎭 Duygu Analizi:** MLP algoritması kullanarak YouTube yorumları üzerinden duygu tahmini gerçekleştiren bir proje üzerinde çalışıyorum.
+* **💳 Kredi Kartı Sınıflandırması:** Sahtekarlık tespiti üzerine odaklanan bir sınıflandırma modeli geliştiriyorum.
+* **👾 Space Invaders:** **Pygame** kütüphanesi kullanarak klasik Space Invaders oyununu yeniden yorumladım.
+* **❌ Tic-Tac-Toe:** JavaScript ve Electron kullanarak yerel veri saklama özellikli interaktif bir oyun geliştirdim.
+  
+---
+
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub İstatistikleri
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InciNurKurnaz&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InciNurKurnaz&layout=compact&langs_count=7&theme=default" />
+</div>
+
+---
+
+### 🌐 Sosyal Bağlantılar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/inci-nur-kurnaz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:incikurnaz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🗣️ Favori Alıntım
+> "Bildiğim tek şey, hiçbir şey bilmediğimdir." – Sokrates
+
