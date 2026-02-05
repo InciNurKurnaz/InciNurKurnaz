@@ -11,6 +11,7 @@ Teknoloji dünyasına modern web çözümleri ve mobil uygulamaları üretmek am
 * **📱 Praxis App:** Üniversite topluluk yönetimi için geliştirilen platformun web yönetim panelinden sorumluyum.
 * **📦 Stok Takip Uygulaması:** Ürün hareketlerini gerçek zamanlı bir dashboard üzerinden yöneten kullanıcı dostu bir sistem geliştiriyorum.
 * **🧠 Müşteri Segmentasyonu:** Alışveriş verileri üzerinden **K-Means, BIRCH ve DBSCAN** algoritmaları ile segmentasyon analizi yapıyorum.
+* **📉 Regresyon Analizi:** California konut verileri üzerinden makine öğrenmesi teknikleri ile fiyat tahmini analizi yürütüyorum.
 * **🎬 Film & Dizi Tür Tahmini:** NLP ve Makine Öğrenmesi kullanarak içerik tabanlı tür sınıflandırma sistemi (IMDb Analizi) yürütüyorum.
 * **🎭 Duygu Analizi:** MLP algoritması kullanarak YouTube yorumları üzerinden duygu tahmini gerçekleştiren bir proje üzerinde çalışıyorum.
 * **💳 Kredi Kartı Sınıflandırması:** Sahtekarlık tespiti üzerine odaklanan bir sınıflandırma modeli geliştiriyorum.
